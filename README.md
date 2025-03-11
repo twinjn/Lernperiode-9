@@ -1,3 +1,4 @@
+
 # Lernperiode-9
 
 Notenziel: Ich habe mir vorgenommen, in diesem Halbjahr, in allen Modulnoten über ein 5 zu schreiben
@@ -13,3 +14,8 @@ In dieser Lernperiode konzentriere ich mich allgemein auf Module, da ich an der 
 
 - Ich arbeite an der LB weiter und verbinde dabei eine Datenbank mit Visual Studio.
 - Ich fange mit HZ3 im Modul 114 an und probiere dies fertig zu machen.
+
+07.02.25
+
+- Ich erledige heute alle Aufgaben im HZ3 im Modul 114, da am Montag Abgabe ist.
+- Danach fange ich mit HZ4 und versuche dies auch fertig zu machen.
