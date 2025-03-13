@@ -19,3 +19,9 @@ In dieser Lernperiode konzentriere ich mich allgemein auf Module, da ich an der 
 
 - Ich erledige heute alle Aufgaben im HZ3 im Modul 114, da am Montag Abgabe ist.
 - Danach fange ich mit HZ4 und versuche dies auch fertig zu machen.
+
+13.02.25
+
+- Ich erledige die letzten Abgaben bei HZ4 im Modul.
+- Ich fange mit dem neuem Modul an und arbeite an Scrum weiter
+- Ich vertiefe mein Wissen über GIT
