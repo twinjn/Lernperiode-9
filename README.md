@@ -25,3 +25,9 @@ In dieser Lernperiode konzentriere ich mich allgemein auf Module, da ich an der 
 - Ich erledige die letzten Abgaben bei HZ4 im Modul.
 - Ich fange mit dem neuem Modul an und arbeite an Scrum weiter
 - Ich vertiefe mein Wissen über GIT
+
+
+20.02.25
+
+- Ich erledige die letzten Aufgaben in HZ3, da sie nicht ausreichend gut waren.
+- Ich fange danach mit HZ4 an und erledige ich
