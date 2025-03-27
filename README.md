@@ -31,3 +31,8 @@ In dieser Lernperiode konzentriere ich mich allgemein auf Module, da ich an der 
 
 - Ich erledige die letzten Aufgaben in HZ3, und beginne anschliessend danach mit HZ4
 - Danach erledige ich alle Moodle-Test im 114 da Montag Abgabe Termin ist.
+
+28.03.25
+
+- Ich arbeite an dem Modul 259 weiter und versuche die Vorhersagen zu testen.
+- Wenn dies erfolgreich, dann arbeite ich am Scrum weiter.
