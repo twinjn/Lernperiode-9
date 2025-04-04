@@ -36,3 +36,8 @@ In dieser Lernperiode konzentriere ich mich allgemein auf Module, da ich an der 
 
 - Ich arbeite an dem Modul 259 weiter und versuche die Vorhersagen zu testen.
 - Wenn dies erfolgreich, dann arbeite ich am Scrum weiter.
+
+04.04.25
+
+- Ich arbeite an dem Modul 259 weiter und erledige alle Moodle-Test.
+- Danach erledige ich den Teilauftrag 3 in der LB 259
